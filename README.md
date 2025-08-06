@@ -7,5 +7,5 @@
 
 Access my portfolio : https://pavithraadeenadayalan.github.io/Portfolio/
 
-### 🐍 Watch my contributions get eaten by a snake!
+### Watch my contributions get eaten by a snake!
 <img src="https://raw.githubusercontent.com/PavithraaDeenadayalan/PavithraaDeenadayalan/output/snake.svg" alt="Snake animation" />
