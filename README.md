@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <em>Full-Stack Developer | Cybersecurity Enthusiast | Dream Chaser from India 🇮🇳</em>
+  <em>Full-Stack Developer | Cybersecurity Enthusiast </em>
 </div>
 
 ---
@@ -61,10 +61,6 @@ const pavithraa = {
 </p>
 
 ## 📊 GitHub Stats & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PavithraaDeenadayalan&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PavithraaDeenadayalan&theme=radical&hide_border=true" alt="GitHub Streak" />
