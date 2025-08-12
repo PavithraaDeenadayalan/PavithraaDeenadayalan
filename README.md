@@ -10,19 +10,18 @@
 ## 🦋 About Me in a Nutshell
 ```javascript
 const pavithraa = {
-  code: ["JavaScript", "Python", "Java", "C++", "Kotlin"],
-  askMeAbout: ["web dev", "cybersecurity", "mobile apps", "data science"],
+  code: ["Java", "Python", "JavaScript", "R", "Kotlin"],
+  askMeAbout: ["Web Dev", "Cybersecurity", "Mobile Apps"],
   technologies: {
-    frontEnd: ["React", "Angular", "HTML", "CSS", "Bootstrap"],
+    frontEnd: ["HTML", "CSS", "Bootstrap", "React", "Angular"],
     backEnd: ["Node.js", "Express.js", "PHP"],
-    database: ["MongoDB", "MySQL"],
+    database: ["MySQL", "MongoDB" ],
     mobile: ["Android", "Kotlin"],
     devOps: ["AWS", "Git", "Linux"],
     dataScience: ["Python", "Pandas", "Scikit-learn", "Seaborn"],
-    hardware: ["Arduino"]
+    hardware: ["Arduino", "Raspberrypi]
   },
-  currentFocus: "Building secure and scalable applications 🔐",
-  funFact: "I debug with coffee and solve problems with curiosity! ☕✨"
+  currentFocus: "Building secure and scalable applications ",
 };
 ```
 
@@ -32,7 +31,6 @@ const pavithraa = {
 - 👯 Looking to collaborate on open source projects
 - 💬 Ask me about anything tech-related!
 - 📫 How to reach me: *Let's connect through my portfolio!*
-- ⚡ Fun fact: I turn coffee into code and bugs into features! 
 
 ## 🛠️ My Tech Toolbox
 
