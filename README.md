@@ -26,19 +26,19 @@ const pavithraa = {
 ```
 
 ## 🌟 What I'm Up To
-- 🔭 Currently working on exciting full-stack projects
-- 🌱 Learning advanced cybersecurity techniques
-- 👯 Looking to collaborate on open source projects
-- 💬 Ask me about anything tech-related!
-- 📫 How to reach me: *Let's connect through my portfolio!*
+-  Currently working on exciting full-stack projects
+-  Learning advanced cybersecurity techniques
+-  Looking to collaborate on open source projects
+-  Ask me about anything tech-related!
+-  How to reach me: *Let's connect through my portfolio!*
 
 ## 🛠️ My Tech Toolbox
 
 ### 💻 Languages & Frameworks
 <p align="left">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -46,8 +46,8 @@ const pavithraa = {
 
 ### 🗄️ Databases & Cloud
 <p align="left">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
