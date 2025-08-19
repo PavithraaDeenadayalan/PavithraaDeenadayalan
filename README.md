@@ -1,130 +1,189 @@
-# 🔥 System.out.println("Hello, Digital World!"); 🔥
+# 💀 INITIALIZING NEURAL NETWORK... 💀
+```
+██████╗  █████╗ ██╗   ██╗██╗████████╗██╗  ██╗██████╗  █████╗  █████╗ 
+██╔══██╗██╔══██╗██║   ██║██║╚══██╔══╝██║  ██║██╔══██╗██╔══██╗██╔══██╗
+██████╔╝███████║██║   ██║██║   ██║   ███████║██████╔╝███████║███████║
+██╔═══╝ ██╔══██║╚██╗ ██╔╝██║   ██║   ██╔══██║██╔══██╗██╔══██║██╔══██║
+██║     ██║  ██║ ╚████╔╝ ██║   ██║   ██║  ██║██║  ██║██║  ██║██║  ██║
+╚═╝     ╚═╝  ╚═╝  ╚═══╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+                    D E E N A D A Y A L A N
+```
+
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40px"/>
-  <em>Full-Stack Developer | Cybersecurity Specialist | Code Architect</em>
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50px"/>
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=FULL-STACK+DEVELOPER;CYBERSECURITY+SPECIALIST;CODE+ARCHITECT;DIGITAL+FORTRESS+BUILDER" alt="Typing SVG" />
 </div>
 
 ---
 
-## ⚡ root@pavithraa:~# whoami
+## 🕸️ ACCESSING MAINFRAME...
 
 ```bash
-╔══════════════════════════════════════════════════════════════╗
-║                    SYSTEM INFORMATION                        ║
-╠══════════════════════════════════════════════════════════════╣
-║ Username: Pavithraa Deenadayalan                            ║
-║ Role: Full-Stack Developer & Security Engineer              ║
-║ Status: Active | Online | Ready to Deploy                   ║
-║ Access Level: Root Privileges Granted                       ║
-╚══════════════════════════════════════════════════════════════╝
+┌─[root@matrix]─[~/pavithraa]
+└──╼ $cat hacker_profile.json
 ```
 
-```javascript
-const CyberDev = {
-  languages: ["Java", "Python", "JavaScript", "R", "Kotlin"],
-  specialization: ["Web Security", "Penetration Testing", "Full-Stack Architecture"],
-  techStack: {
-    frontend: ["React", "Angular", "HTML5", "CSS3", "Bootstrap"],
-    backend: ["Node.js", "Express.js", "PHP"],
-    databases: ["MySQL", "MongoDB"],
-    mobile: ["Android", "Kotlin"],
-    cloud: ["AWS", "Linux"],
-    security: ["Vulnerability Assessment", "Secure Coding", "Network Security"],
-    dataScience: ["Python", "Pandas", "Scikit-learn", "Seaborn"],
-    iot: ["Arduino", "Raspberry Pi"]
+```json
+{
+  "threat_level": "FRIENDLY",
+  "access_granted": true,
+  "skills": {
+    "languages": ["Java ☕", "Python 🐍", "JavaScript ⚡", "R 📊", "Kotlin 🚀"],
+    "specialization": ["Web Security 🛡️", "Penetration Testing 🔍", "Full-Stack Wizardry 🧙‍♀️"],
+    "arsenal": {
+      "frontend": ["React ⚛️", "Angular 🔺", "HTML5 🌐", "CSS3 🎨", "Bootstrap 📱"],
+      "backend": ["Node.js 🟢", "Express.js 🚄", "PHP 🐘"],
+      "databases": ["MySQL 🐬", "MongoDB 🍃"],
+      "mobile": ["Android 🤖", "Kotlin 📲"],
+      "cloud": ["AWS ☁️", "Linux 🐧"],
+      "security": ["Ethical Hacking 🎭", "Vulnerability Assessment 🔍", "Secure Coding 🔐"],
+      "ai_ml": ["Python 🤖", "Pandas 🐼", "Scikit-learn 🧠", "Seaborn 📈"],
+      "hardware": ["Arduino 🔧", "Raspberry Pi 🥧"]
+    }
   },
-  currentMission: "Building fortress-level secure applications",
-  motto: "Code with precision, secure by design"
-};
+  "current_mission": "Building digital fortresses & breaking digital walls (ethically)",
+  "motto": "In Code We Trust, In Security We Thrive"
+}
 ```
 
-## 🚀 Current Operations Status
-
-```
-[ACTIVE] Developing next-gen full-stack applications
-[LEARNING] Advanced penetration testing & ethical hacking
-[SEEKING] Open source collaborations in cybersecurity
-[AVAILABLE] For tech discussions & security consultations
-[CONTACT] Secure channels available via portfolio
+```bash
+┌─[root@matrix]─[~/pavithraa]
+└──╼ $./status.sh
 ```
 
-## 🛡️ Arsenal & Tech Stack
+## 🔥 CURRENT OPERATIONS STATUS
 
-### 💻 Core Programming Languages
-<p align="left">
-<img src="https://img.shields.io/badge/Java-FF6C37?style=for-the-badge&logo=java&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&labelColor=000000" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000" />
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=000000" />
-</p>
+```
+╔═══════════════════════════════════════════════════════════════╗
+║  🚨 ACTIVE PROCESSES                                          ║
+╠═══════════════════════════════════════════════════════════════╣
+║  [████████████████████████] Developing Next-Gen Apps    100% ║
+║  [██████████████████      ] Learning Advanced Hacking    80% ║
+║  [████████████            ] Open Source Hunting          60% ║
+║  [████████████████████████] Available for Collaboration 100% ║
+╚═══════════════════════════════════════════════════════════════╝
 
-### ⚙️ Frameworks & Runtime Environments
-<p align="left">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000" />
-</p>
+💬 DM_STATUS: SECURE_CHANNELS_OPEN
+🎯 MISSION: Break things, then build them stronger
+⚡ UPTIME: 24/7/365 (Coffee-powered)
+```
 
-### 🗃️ Database & Cloud Infrastructure
-<p align="left">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=000000" />
-</p>
+## 🧰 HACKER'S TOOLKIT
 
-### 🎯 Frontend Technologies
-<p align="left">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=000000" />
-</p>
-
-### 🔧 Hardware & IoT
-<p align="left">
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white&labelColor=000000" />
-</p>
-
-## 📈 System Performance Metrics
-
+### 🔫 PROGRAMMING WEAPONS
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PavithraaDeenadayalan&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=FF6B35&currStreakLabel=00FF88" alt="GitHub Streak" />
+
+| **LANGUAGE** | **PROFICIENCY** | **DANGER LEVEL** |
+|--------------|-----------------|------------------|
+| **Java ☕** | `████████████████████` 100% | 🔥🔥🔥🔥🔥 |
+| **Python 🐍** | `████████████████████` 100% | 🔥🔥🔥🔥🔥 |
+| **JavaScript ⚡** | `██████████████████▓▓` 90% | 🔥🔥🔥🔥▓ |
+| **Kotlin 🚀** | `████████████████▓▓▓▓` 80% | 🔥🔥🔥🔥▓ |
+| **R 📊** | `██████████████▓▓▓▓▓▓` 70% | 🔥🔥🔥▓▓ |
+
 </div>
 
+### ⚔️ TECH ARSENAL
+```
+┌───────────────────────────────────────────────────────────────┐
+│                     🛡️ DEFENSIVE STACK                        │
+├───────────────────────────────────────────────────────────────┤
+│ Frontend Shield:  React • Angular • HTML5 • CSS3 • Bootstrap │
+│ Backend Fortress: Node.js • Express.js • PHP                 │
+│ Data Vaults:      MySQL • MongoDB                            │
+│ Cloud Weapons:    AWS • Linux                                │
+│ Mobile Attacks:   Android • Kotlin                           │
+│ Hardware Hacks:   Arduino • Raspberry Pi                     │
+│ AI Arsenal:       Python • Pandas • Scikit-learn • Seaborn  │
+└───────────────────────────────────────────────────────────────┘
+```
+
+<p align="center">
+<img src="https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=white&labelColor=000000&color=FF0000" />
+<img src="https://img.shields.io/badge/Python-00FF00?style=for-the-badge&logo=python&logoColor=black&labelColor=000000" />
+<img src="https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000" />
+<img src="https://img.shields.io/badge/React-00FFFF?style=for-the-badge&logo=react&logoColor=black&labelColor=000000" />
+<img src="https://img.shields.io/badge/Angular-FF00FF?style=for-the-badge&logo=angular&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/Node.js-00FF41?style=for-the-badge&logo=node.js&logoColor=black&labelColor=000000" />
+<img src="https://img.shields.io/badge/AWS-FF6600?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/MongoDB-00FF88?style=for-the-badge&logo=mongodb&logoColor=black&labelColor=000000" />
+<img src="https://img.shields.io/badge/MySQL-FF4444?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/Linux-FFF700?style=for-the-badge&logo=linux&logoColor=black&labelColor=000000" />
+</p>
+
+## 📊 SYSTEM PERFORMANCE ANALYTICS
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavithraaDeenadayalan&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF" alt="Top Languages" />
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                    🔥 GITHUB BATTLE STATS 🔥                    ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PavithraaDeenadayalan&theme=chartreuse-dark&hide_border=true&background=000000&ring=00FF41&fire=FF073A&currStreakLabel=00FF41&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavithraaDeenadayalan&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=FFFFFF&icon_color=FF073A" alt="Top Languages" />
+
 </div>
 
-## 🐍 Code Execution Visualization
+## 🐍 MATRIX CODE EXECUTION
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/PavithraaDeenadayalan/PavithraaDeenadayalan/output/snake.svg" alt="Snake animation" />
+  
+```
+  ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+ ▐ CONSUMING BUGS • GENERATING SOLUTIONS ▌
+  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+```
 </div>
 
-## 🌐 Secure Communication Channels
+## 🌐 ESTABLISH SECURE CONNECTION
 
 <div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/🔗_PORTFOLIO-00FF88?style=for-the-badge&logo=safari&logoColor=black&labelColor=000000)](https://pavithraadeenadayalan.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/🔗_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/pavithraadeenadayalan)
-[![Email](https://img.shields.io/badge/📧_SECURE_MAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:pavithraadeenadayalan35@gmail.com)
+
+```bash
+┌─[connecting...]─[establishing_encrypted_tunnel]
+└──╼ $netcat -l 443
+```
+
+[![🔗 ENTER PORTFOLIO](https://img.shields.io/badge/🔗_BREACH_PORTFOLIO-FF0000?style=for-the-badge&logo=safari&logoColor=white&labelColor=000000)](https://pavithraadeenadayalan.github.io/Portfolio/)
+[![💼 LINKEDIN INFILTRATION](https://img.shields.io/badge/💼_LINKEDIN_HACK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/pavithraadeenadayalan)
+[![📧 ENCRYPTED MAIL](https://img.shields.io/badge/📧_SEND_ENCRYPTED_MESSAGE-00FF41?style=for-the-badge&logo=protonmail&logoColor=black&labelColor=000000)](mailto:pavithraadeenadayalan35@gmail.com)
+
+```
+╔═══════════════════════════════════════════════════════╗
+║  🔐 ALL COMMUNICATIONS ARE END-TO-END ENCRYPTED 🔐   ║
+╚═══════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PavithraaDeenadayalan&color=00FF88&style=for-the-badge&label=SECURE+CONNECTIONS" />
-  
-  **🔐 Connection Established | Transmission Complete | Stay Secure! 🔐**
-  
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="60">
-</div>
+
+<img src="https://komarev.com/ghpvc/?username=PavithraaDeenadayalan&color=00FF41&style=for-the-badge&label=NEURAL+CONNECTIONS" />
+
+```
+  ████████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗███████╗
+  ╚══██╔══╝██║  ██║██╔══██╗████╗  ██║██║ ██╔╝██╔════╝
+     ██║   ███████║███████║██╔██╗ ██║█████╔╝ ███████╗
+     ██║   ██╔══██║██╔══██║██║╚██╗██║██╔═██╗ ╚════██║
+     ██║   ██║  ██║██║  ██║██║ ╚████║██║  ██╗███████║
+     ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
+     
+   FOR ACCESSING MY DIGITAL FORTRESS! STAY SECURE! 🛡️
+```
+
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="60">
 
 ```bash
-pavithraa@github:~$ echo "Thanks for accessing my digital space!"
-pavithraa@github:~$ logout
+┌─[session_terminated]─[connection_closed]
+└──╼ $exit
+Connection to pavithraa@matrix closed.
 ```
+
+</div>
