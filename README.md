@@ -1,4 +1,5 @@
-# 💀 INITIALIZING NEURAL NETWORK... 
+# PAVITHRAA DEENADAYALAN
+
 ```
 ██████╗  █████╗ ██╗   ██╗██╗████████╗██╗  ██╗██████╗  █████╗  █████╗ 
 ██╔══██╗██╔══██╗██║   ██║██║╚══██╔══╝██║  ██║██╔══██╗██╔══██╗██╔══██╗
@@ -6,160 +7,133 @@
 ██╔═══╝ ██╔══██║╚██╗ ██╔╝██║   ██║   ██╔══██║██╔══██╗██╔══██║██╔══██║
 ██║     ██║  ██║ ╚████╔╝ ██║   ██║   ██║  ██║██║  ██║██║  ██║██║  ██║
 ╚═╝     ╚═╝  ╚═╝  ╚═══╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-                    D E E N A D A Y A L A N
 ```
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50px"/>
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=FULL-STACK+DEVELOPER;CYBERSECURITY+SPECIALIST;CODE+ARCHITECT;DIGITAL+FORTRESS+BUILDER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=FULL-STACK+DEVELOPER;CYBERSECURITY+ENTHUSIAST;CODE+ARCHITECT" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🕸️ ACCESSING MAINFRAME...
+## DEVELOPER PROFILE
 
 ```bash
-┌─[root@matrix]─[~/pavithraa]
-└──╼ $cat hacker_profile.json
+┌─[root@dev]─[~/pavithraa]
+└──╼ $cat developer_profile.json
 ```
 
 ```json
 {
-  "threat_level": "FRIENDLY",
-  "access_granted": true,
-  "skills": {
-    "languages": ["Java ☕", "Python 🐍", "JavaScript ⚡", "R 📊", "Kotlin 🚀"],
-    "specialization": ["Web Security 🛡️", "Penetration Testing 🔍", "Full-Stack Wizardry 🧙‍♀️"],
-    "arsenal": {
-      "frontend": ["React ⚛️", "Angular 🔺", "HTML5 🌐", "CSS3 🎨", "Bootstrap 📱"],
-      "backend": ["Node.js 🟢", "Express.js 🚄", "PHP 🐘"],
-      "databases": ["MySQL 🐬", "MongoDB 🍃"],
-      "mobile": ["Android 🤖", "Kotlin 📲"],
-      "cloud": ["AWS ☁️", "Linux 🐧"],
-      "security": ["Ethical Hacking 🎭", "Vulnerability Assessment 🔍", "Secure Coding 🔐"],
-      "ai_ml": ["Python 🤖", "Pandas 🐼", "Scikit-learn 🧠", "Seaborn 📈"],
-      "hardware": ["Arduino 🔧", "Raspberry Pi 🥧"]
-    }
+  "access_level": "OPEN_SOURCE",
+  "status": "ACTIVELY_DEVELOPING",
+  "languages": ["Java", "Python", "JavaScript", "R", "Kotlin"],
+  "specializations": [
+    "Full-Stack Development",
+    "Web Security",
+    "Mobile Applications"
+  ],
+  "tech_stack": {
+    "frontend": ["React", "Angular", "HTML5", "CSS3", "Bootstrap"],
+    "backend": ["Node.js", "Express.js", "PHP"],
+    "databases": ["MySQL", "MongoDB"],
+    "mobile": ["Android", "Kotlin"],
+    "cloud": ["AWS", "Linux"],
+    "security": ["Ethical Hacking", "Secure Coding"],
+    "ai_ml": ["Python", "Pandas", "Scikit-learn", "Seaborn"],
+    "hardware": ["Arduino", "Raspberry Pi"]
   },
-  "current_mission": "Building digital fortresses & breaking digital walls (ethically)",
-  "motto": "In Code We Trust, In Security We Thrive"
+  "current_mission": "Building secure applications and exploring cybersecurity",
+  "availability": "Open for collaboration"
 }
 ```
 
-```bash
-┌─[root@matrix]─[~/pavithraa]
-└──╼ $./status.sh
-```
-
-## 🔥 CURRENT OPERATIONS STATUS
+## CURRENT FOCUS AREAS
 
 ```
 ┌───────────────────────────────────────────────────────────────┐
-│                  🎯 ACTIVE DEVELOPMENT AREAS                   │
+│                    ACTIVE DEVELOPMENT AREAS                   │
 ├───────────────────────────────────────────────────────────────┤
-│ Web Security:     Learning ethical hacking & secure coding   │
-│ Full-Stack:       Building end-to-end applications           │
-│ Mobile Dev:       Exploring Android with Kotlin             │
-│ Data Analysis:    Python & R for insights                   │
-│ Cloud Basics:     AWS fundamentals & Linux administration   │
-│ Hardware Fun:     Arduino & Raspberry Pi projects           │
+│ Web Security      Learning ethical hacking & secure coding   │
+│ Full-Stack Dev    Building end-to-end applications           │
+│ Mobile Apps       Exploring Android development with Kotlin  │
+│ Data Analysis     Python & R for data insights              │
+│ Cloud Computing   AWS fundamentals & Linux administration    │
+│ Hardware Projects Arduino & Raspberry Pi experimentation     │
 └───────────────────────────────────────────────────────────────┘
-
-💬 DM_STATUS: SECURE_CHANNELS_OPEN
-🎯 MISSION: Break things, then build them stronger
-⚡ UPTIME: 24/7/365 (Coffee-powered)
 ```
 
-## 🧰 HACKER'S TOOLKIT
+## TECHNICAL SKILLS
 
-### SKILL PROGRESSION
+### Programming Languages
 
-<div align="center">
-TECHNOLOGY	EXPERIENCE LEVEL	STATUS
-Java ☕	████████████▓▓▓▓▓▓▓▓ Proficient	🔥 Active Use
-Python 🐍	███████████▓▓▓▓▓▓▓▓▓ Proficient	🔥 Active Use
-JavaScript ⚡	█████████▓▓▓▓▓▓▓▓▓▓▓ Intermediate+	🔥 Growing
-Kotlin 🚀	██████▓▓▓▓▓▓▓▓▓▓▓▓▓▓ Learning	🌱 Exploring
-R 📊	█████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ Beginner+	🌱 Data Focus
-Note: Proficiency bars represent practical experience, not mastery - because let's be honest, we're all still learning!
+| **Language** | **Experience Level** | **Usage** |
+|--------------|---------------------|-----------|
+| **Java** | `████████████▓▓▓▓▓▓▓▓` Proficient | Primary Language |
+| **Python** | `███████████▓▓▓▓▓▓▓▓▓` Proficient | Data & Web Dev |
+| **JavaScript** | `█████████▓▓▓▓▓▓▓▓▓▓▓` Intermediate+ | Frontend & Backend |
+| **Kotlin** | `██████▓▓▓▓▓▓▓▓▓▓▓▓▓▓` Learning | Android Development |
+| **R** | `█████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓` Beginner+ | Statistical Analysis |
 
-</div>
+### Technology Stack
 
-### ⚔️ TECH ARSENAL
 ```
 ┌───────────────────────────────────────────────────────────────┐
-│                     🛡️ DEFENSIVE STACK                        │
+│                        TECH ARSENAL                           │
 ├───────────────────────────────────────────────────────────────┤
-│ Frontend Shield:  React • Angular • HTML5 • CSS3 • Bootstrap │
-│ Backend Fortress: Node.js • Express.js • PHP                 │
-│ Data Vaults:      MySQL • MongoDB                            │
-│ Cloud Weapons:    AWS • Linux                                │
-│ Mobile Attacks:   Android • Kotlin                           │
-│ Hardware Hacks:   Arduino • Raspberry Pi                     │
-│ AI Arsenal:       Python • Pandas • Scikit-learn • Seaborn  │
+│ Frontend          React • Angular • HTML5 • CSS3 • Bootstrap │
+│ Backend           Node.js • Express.js • PHP                 │
+│ Databases         MySQL • MongoDB                            │
+│ Cloud & Systems   AWS • Linux                                │
+│ Mobile            Android • Kotlin                           │
+│ Hardware          Arduino • Raspberry Pi                     │
+│ Data Science      Python • Pandas • Scikit-learn • Seaborn  │
+│ Security          Ethical Hacking • Vulnerability Assessment │
 └───────────────────────────────────────────────────────────────┘
 ```
+
+### Technology Badges
 
 <p align="center">
-<img src="https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=white&labelColor=000000&color=FF0000" />
-<img src="https://img.shields.io/badge/Python-00FF00?style=for-the-badge&logo=python&logoColor=black&labelColor=000000" />
-<img src="https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000" />
-<img src="https://img.shields.io/badge/React-00FFFF?style=for-the-badge&logo=react&logoColor=black&labelColor=000000" />
-<img src="https://img.shields.io/badge/Angular-FF00FF?style=for-the-badge&logo=angular&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/Node.js-00FF41?style=for-the-badge&logo=node.js&logoColor=black&labelColor=000000" />
-<img src="https://img.shields.io/badge/AWS-FF6600?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/MongoDB-00FF88?style=for-the-badge&logo=mongodb&logoColor=black&labelColor=000000" />
-<img src="https://img.shields.io/badge/MySQL-FF4444?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/Linux-FFF700?style=for-the-badge&logo=linux&logoColor=black&labelColor=000000" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-## 📊 SYSTEM PERFORMANCE ANALYTICS
+## GITHUB STATISTICS
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                    🔥 GITHUB BATTLE STATS 🔥                    ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PavithraaDeenadayalan&theme=dark&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PavithraaDeenadayalan&theme=chartreuse-dark&hide_border=true&background=000000&ring=00FF41&fire=FF073A&currStreakLabel=00FF41&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavithraaDeenadayalan&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=FFFFFF&icon_color=FF073A" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavithraaDeenadayalan&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 
 </div>
 
-## 🐍 MATRIX CODE EXECUTION
+## CONTRIBUTION ACTIVITY
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/PavithraaDeenadayalan/PavithraaDeenadayalan/output/snake.svg" alt="Snake animation" />
-  
-```
-  ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
- ▐ CONSUMING BUGS • GENERATING SOLUTIONS ▌
-  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-```
 </div>
 
-## 🌐 ESTABLISH SECURE CONNECTION
+## CONNECT WITH ME
 
 <div align="center">
 
 ```bash
-┌─[connecting...]─[establishing_encrypted_tunnel]
-└──╼ $netcat -l 443
+┌─[establishing_connection]
+└──╼ $connect --secure
 ```
 
-[![🔗 ENTER PORTFOLIO](https://img.shields.io/badge/🔗_BREACH_PORTFOLIO-FF0000?style=for-the-badge&logo=safari&logoColor=white&labelColor=000000)](https://pavithraadeenadayalan.github.io/Portfolio/)
-[![💼 LINKEDIN INFILTRATION](https://img.shields.io/badge/💼_LINKEDIN_HACK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/pavithraadeenadayalan)
-[![📧 ENCRYPTED MAIL](https://img.shields.io/badge/📧_SEND_ENCRYPTED_MESSAGE-00FF41?style=for-the-badge&logo=protonmail&logoColor=black&labelColor=000000)](mailto:pavithraadeenadayalan35@gmail.com)
-
-```
-╔═══════════════════════════════════════════════════════╗
-║  🔐 ALL COMMUNICATIONS ARE END-TO-END ENCRYPTED 🔐   ║
-╚═══════════════════════════════════════════════════════╝
-```
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=safari&logoColor=white)](https://pavithraadeenadayalan.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pavithraadeenadayalan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavithraadeenadayalan35@gmail.com)
 
 </div>
 
@@ -167,25 +141,16 @@ Note: Proficiency bars represent practical experience, not mastery - because let
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=PavithraaDeenadayalan&color=00FF41&style=for-the-badge&label=NEURAL+CONNECTIONS" />
+<img src="https://komarev.com/ghpvc/?username=PavithraaDeenadayalan&color=blueviolet&style=flat-square&label=Profile+Views" />
 
 ```
-  ████████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗███████╗
-  ╚══██╔══╝██║  ██║██╔══██╗████╗  ██║██║ ██╔╝██╔════╝
-     ██║   ███████║███████║██╔██╗ ██║█████╔╝ ███████╗
-     ██║   ██╔══██║██╔══██║██║╚██╗██║██╔═██╗ ╚════██║
-     ██║   ██║  ██║██║  ██║██║ ╚████║██║  ██╗███████║
-     ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
-     
-   FOR ACCESSING MY DIGITAL FORTRESS! STAY SECURE! 🛡️
+Thanks for visiting my profile! Always open to interesting projects and collaborations.
 ```
-
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="60">
 
 ```bash
-┌─[session_terminated]─[connection_closed]
-└──╼ $exit
-Connection to pavithraa@matrix closed.
+┌─[session_complete]
+└──╼ $logout
+Connection closed.
 ```
 
 </div>
