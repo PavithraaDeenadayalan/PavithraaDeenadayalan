@@ -33,7 +33,7 @@
     "Mobile Applications"
   ],
   "tech_stack": {
-    "frontend": ["React", "Angular", "HTML5", "CSS3", "Bootstrap"],
+    "frontend": ["React", "HTML5", "CSS3", "Bootstrap"],
     "backend": ["Node.js", "Express.js", "PHP"],
     "databases": ["MySQL", "MongoDB"],
     "mobile": ["Android", "Kotlin"],
@@ -80,7 +80,7 @@
 ┌───────────────────────────────────────────────────────────────┐
 │                        TECH ARSENAL                           │
 ├───────────────────────────────────────────────────────────────┤
-│ Frontend          React • Angular • HTML5 • CSS3 • Bootstrap │
+│ Frontend          React • HTML5 • CSS3 • Bootstrap │
 │ Backend           Node.js • Express.js • PHP                 │
 │ Databases         MySQL • MongoDB                            │
 │ Cloud & Systems   AWS • Linux                                │
