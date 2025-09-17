@@ -35,7 +35,7 @@
   "tech_stack": {
     "frontend": ["React", "HTML5", "CSS3", "Bootstrap"],
     "backend": ["Node.js", "Express.js", "PHP"],
-    "databases": ["MySQL", "MongoDB", "PHPMyAdmin],
+    "databases": ["MySQL", "MongoDB", "PHPMyAdmin"],
     "mobile": ["Android", "Kotlin"],
     "cloud": ["AWS", "Linux"],
     "security": ["Ethical Hacking", "Secure Coding"],
