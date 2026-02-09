@@ -235,7 +235,7 @@ print(" Access Granted. Profile Loaded.")
 </details>
 
 <details>
-<summary><b>🔍 OPERATION: SENTINEL SCOPE</b> <code>[COMPLETED - NOV 2025]</code></summary>
+<summary><b> OPERATION: SENTINEL SCOPE</b> <code>[COMPLETED - NOV 2025]</code></summary>
 
 ```
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
@@ -264,48 +264,6 @@ print(" Access Granted. Profile Loaded.")
 ┃ ✓ 5 integrated security modules                                 ┃
 ┃ ✓ Unified dashboard for analysis                                ┃
 ┃ ✓ Automated reporting system                                    ┃
-┃                                                                 ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
-</details>
-
-<details>
-<summary><b> OPERATION: VULNHUB LABS</b> <code>[COMPLETED - JAN 2026]</code></summary>
-
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ PROJECT: Healthcare Security Training Environment               ┃
-┃ PURPOSE: Intentionally Vulnerable Lab for Security Training     ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃                                                                 ┃
-┃ VULNERABILITY MATRIX:                                           ┃
-┃                                                                 ┃
-┃ LEVEL 1 - BEGINNER:                                             ┃
-┃ • Broken Access Control                                         ┃
-┃ • Security Misconfiguration                                     ┃
-┃ • Insecure Direct Object References (IDOR)                      ┃
-┃                                                                 ┃
-┃ LEVEL 2 - INTERMEDIATE:                                         ┃
-┃ • SQL Injection (Error-based, Union-based)                      ┃
-┃ • Cross-Site Scripting (Reflected, Stored)                      ┃
-┃ • Cross-Site Request Forgery (CSRF)                             ┃
-┃                                                                 ┃
-┃ LEVEL 3 - ADVANCED:                                             ┃
-┃ • Authentication bypass techniques                              ┃
-┃ • Business logic flaws                                          ┃
-┃ • Privilege escalation vulnerabilities                          ┃
-┃                                                                 ┃
-┃ LEVEL 4 - EXPERT:                                               ┃
-┃ • Chained vulnerability exploitation                            ┃
-┃ • Advanced injection techniques                                 ┃
-┃ • Complex authentication attacks                                ┃
-┃                                                                 ┃
-┃ CTF CHALLENGES: 12 capture-the-flag scenarios                   ┃
-┃ ATTACK MODULES: 3 specialized vectors                           ┃
-┃                                                                 ┃
-┃ TECHNOLOGIES:                                                   ┃
-┃ PHP • MySQL • Docker • Apache • OWASP Standards                 ┃
 ┃                                                                 ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
@@ -344,7 +302,7 @@ print(" Access Granted. Profile Loaded.")
 
 ---
 
-## 🎯 TRAINING GROUNDS & BATTLEFIELDS
+##  TRAINING GROUNDS & BATTLEFIELDS
 
 <div align="center">
 
