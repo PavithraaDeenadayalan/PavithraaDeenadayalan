@@ -15,7 +15,7 @@
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=100&lines=OFFENSIVE+SECURITY+ENTHUSIAST;PENETRATION+TEST+LEARNER+%7C;CTF+PLAYER+%7C+SECURITY+RESEARCHER;Breaking+systems+to+build+them+stronger" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=100&lines=OFFENSIVE+SECURITY+ENTHUSIAST;PENETRATION+TEST+LEARNER;CTF+PLAYER+%7C+SECURITY+RESEARCHER;Breaking+systems+to+build+them+stronger" alt="Typing SVG" />
 
 ```ascii
 [WARNING] Unauthorized access detected...
