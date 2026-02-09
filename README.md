@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎯 SYSTEM BREACH DETECTED 🎯
+#  SYSTEM BREACH DETECTED 
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════╗
