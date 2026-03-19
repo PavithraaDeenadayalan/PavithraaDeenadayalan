@@ -380,16 +380,6 @@ print(" Access Granted. Profile Loaded.")
 
 <div align="center">
 
-##  SECURITY PROTOCOLS
-
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  "In cybersecurity, the only constant is change.            ┃
-┃   Stay curious, stay vigilant, stay secure."               ┃
-┃                                          - Pavithraa D      ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
 ###  CURRENT OBJECTIVES
 
 ```yaml
